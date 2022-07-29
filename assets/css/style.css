@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;  
+}
+.custom-caption {
+    width: 40%;
+    margin: 0 auto;
+}
+.custom-caption button{
+    margin-bottom: 20px;
+    padding: 5px 30px;
+    font-weight: bold;
+}
+.all-element p{
+    margin-bottom: 8px;
+}
+.fa-circle-check{
+    color: #5243C2;
+    margin-right: 5px;
+}
